@@ -1,1 +1,1 @@
-“my collaboration”
+“collaboration”
